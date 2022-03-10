@@ -9,7 +9,7 @@
   <div class="title">
     {#if time < 12}
       <p>Good Morning🌄</p>
-    {:else if time < 4}
+    {:else if time < 17}
       <p>Good Afternoon🕛</p>
     {:else if time < 20}
       <p>Good Evening🌆</p>
